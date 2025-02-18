@@ -20,6 +20,7 @@ body{
     border-radius: 50%;
     vertical-align: middle;
     padding: 20px;
+    box-shadow: 0px 0px 20px rgba(212, 99, 0, 0.6), 0px 0px 25px rgba(255, 241, 0, 0.6);
 }
 .Bio{
     font-size: 25px;
@@ -35,7 +36,6 @@ body{
     width: 120px;
     height: 120px;
     object-fit: cover;
-    box-shadow: 0px 0px 20px rgb(255, 215, 0);
 }
 .border{
     margin: auto;
