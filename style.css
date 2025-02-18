@@ -14,13 +14,14 @@ body{
     text-shadow: 1px 1px 7px rgb(255, 255, 255);
     color: white;
 }
-.avatar-position{
+.avatar-position {
     margin-top: 5%;
     text-align: center;
     border-radius: 50%;
     vertical-align: middle;
     padding: 20px;
-    box-shadow: 0px 0px 20px rgba(212, 99, 0, 0.6);
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.8);
+}
 }
 .Bio{
     font-size: 25px;
