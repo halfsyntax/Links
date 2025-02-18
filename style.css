@@ -21,7 +21,7 @@ body{
     border-radius: 50%;
     vertical-align: middle;
     padding: 20px;
-    box-shadow: 0px 0px 20px rgba(250, 215, 10);
+    
 }
 .Bio{
     font-size: 25px;
@@ -35,7 +35,8 @@ body{
 .avatar{
     border-radius: 50%;
     width: 120px;
-    height: 120px; 
+    height: 120px;
+    box-shadow: 0px 0px 20px rgba(255, 255, 255);
     
 }
 .border{
